@@ -122,6 +122,7 @@ Taille: 27.06 MB Format : PDF](https://ceric.ca/download/880/fr/38835/discipline
     * ISM - Institut supérieur de management
   * #### Thiès
     * [IPAIM - Institut privé africain en informatique et management](https://www.ipaim.sn)
+    * [ISEP - Institut Supérieur d’Enseignement Professionnel](https://www.isep-thies.sn/)
     * ISM - Institut supérieur de management (Thiès)
     * ISM - Institut supérieur de management (MBour)
     * [UT - Génie Informatique à l'Université de Thies](https://www.univ-thies.sn)
