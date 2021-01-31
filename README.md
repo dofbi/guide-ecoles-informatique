@@ -53,7 +53,7 @@ Salut toi, si tu es là c'est que tu veux devenir un pros en informatique!
         Les métiers liés à l’informatique sont extrêmement variés, et vont du développement à la conception en passant par la gestion. On court moins de risques de s’ennuyer quand le travail évolue, souvent de façon notable, d’une année sur l’autre.
 
 
-## Disciplines et carrière en informatiaue
+## Disciplines et carrière en informatique
 
 Pour en apprendre d'avantage sur les cinq grandes disciplines de l’informatique :
 
