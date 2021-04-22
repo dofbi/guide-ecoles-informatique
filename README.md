@@ -130,7 +130,10 @@ Taille: 27.06 MB Format : PDF](https://ceric.ca/download/880/fr/38835/discipline
     * ISM - Institut supérieur de management
     * [UGB - Université Gaston Berger](https://www.ugb.sn)
   * #### Ziguinchor
-    * ISM - Institut supérieur de management
+    * [ISM - Institut Supérieur de Management](https://www.ismcasamance.sn)
+    * [UASZ - Université Assane Seck de Ziguinchor](https://uasz.sn)
+    * [ISI - Institut Supérieur d'Informatique](https://www.groupeisi.com/?p=49177)
+    * [AFZ - Alliance Française Ziguinchor](http://www.afziguinchor.org/?page_id=340)
   
 
 * ### Djibouti
