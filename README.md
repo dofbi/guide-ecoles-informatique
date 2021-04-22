@@ -116,6 +116,7 @@ Taille: 27.06 MB Format : PDF](https://ceric.ca/download/880/fr/38835/discipline
   * #### Diourbel
     * ISM - Institut supérieur de management (Touba Mbacké)
     * [UADB - Technicien informatique à l’Univers Alioune Diop de Bambey](http://www.uadb.edu.sn)
+    * [ISI - Institut Supérieur d'Informatique](https://www.groupeisi.com/?p=47142)
   * #### Kaolack
     * ISM - Institut supérieur de management
   * #### Louga
