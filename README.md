@@ -150,6 +150,19 @@ Taille: 27.06 MB Format : PDF](https://ceric.ca/download/880/fr/38835/discipline
 * ### Royaume-Uni
 
 * ### Suisse
+  * #### Formations de base
+    * [CFPT - Centre de formation professionnelle technique de Genève](https://edu.ge.ch/site/cfpt/)  
+    * [CPLN - Centre Professionnel du Littoral Neuchâtel](https://cpne.ch/)
+    * [Ecole des Métiers Techniques du Jura](https://www.divtec.ch/ecole-des-metiers-techniques/) 
+    * [EMF - Ecole des Métiers Fribourg](https://www.fr.ch/emf)
+    * [EPTM - Ecole Professionnelle Technique et des Métiers](https://eptm.ch/)
+    * [ETML - L'Ecole Technique - Ecole des Métiers de Lausanne](https://www.etml.ch/)
+
+  * #### Formations supérieures
+    * [EPFL - École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/fr/)
+    * [ESIG - Ecole Supérieure d'Informatique de Gestion](http://www.esig-jura.ch)
+    * [IDEC - Ecole supérieure d'informatique](https://idec.swiss/bf/)
+    * [ISEIG - Institut Suisse d'Enseignement de l'Informatique de Gestion](https://iseig.ch/)
 
 * ### Singapour
 
