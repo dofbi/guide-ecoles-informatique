@@ -12,7 +12,7 @@ Salut toi, si tu es là c'est que tu veux devenir un pros en informatique!
   * [Innovation](#innovation)
   * [Flexibilité](#flexibilité)
   * [Variété](#Varitété)
-* [Disciplines et carrière en informatiaue](#Disciplines-et-carrière-en-informatiaue)
+* [Disciplines et carrière en informatique](#Disciplines-et-carrière-en-informatiaue)
 * [Écoles d'Informatique](#Écoles-d'Informatique)
   *  [Sénégal](#Sénégal)
         * [Dakar](#Dakar) 
