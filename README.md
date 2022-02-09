@@ -113,6 +113,7 @@ Taille: 27.06 MB Format : PDF](https://ceric.ca/download/880/fr/38835/discipline
     * [UPAM - Université Privée Africaine Moderne](https://upam-senegal.business.site)
     * [Université de l’Atlantique](http://www.universat.org)
     * [University of Management](http://www.universityofmanagement.sn)
+    * [Bakeli School of Technology](https://www.bakeli.tech/)
   * #### Diourbel
     * ISM - Institut supérieur de management (Touba Mbacké)
     * [UADB - Technicien informatique à l’Univers Alioune Diop de Bambey](http://www.uadb.edu.sn)
